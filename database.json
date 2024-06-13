@@ -1,0 +1,19 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "webpack", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": [{ "name": "typicode" }],
+
+  "contacts":[
+    { "id": 1, "name": "John", "e-mail": "John123@mail.com", "number":  "123-456-789"},
+    { "id": 2, "name": "Alex", "e-mail": "Alex5122@mail.com", "number":  "512-453-183"},
+    { "id": 3, "name": "Ben", "e-mail": "Ben331@mail.com", "number":  "613-127-241"}
+  ]
+}
+
+
+
